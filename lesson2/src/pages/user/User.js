@@ -3,7 +3,7 @@ import classes from "./User.module.css";
 
 const User = ({name, age}) => {
 
-    console.log(name, age)
+    // console.log(name, age)
     // const users = {
     //     name: 'Aijamal',
     //     age: '19'
