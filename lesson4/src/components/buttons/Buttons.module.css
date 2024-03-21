@@ -1,0 +1,8 @@
+.btns {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    color: #17d317;
+    margin-bottom: 20px;
+}
