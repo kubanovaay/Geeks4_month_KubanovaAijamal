@@ -3,9 +3,9 @@ import classes from './ModalPokemon.module.sass';
 import close from '../../common/img/close.svg'
 
 const ModalPokemon = ({
-                          children,
-                          handleShow,
-                      }) => {
+    children,
+    handleShow,
+}) => {
     return (
         <>
             <div className={classes.modalWrapper} onClick={handleShow}></div>

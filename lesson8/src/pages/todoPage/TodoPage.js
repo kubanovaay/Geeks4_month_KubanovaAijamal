@@ -101,8 +101,6 @@ const TodoPage = () => {
         } finally {
             setLoading(false)
         }
-
-
     };
     const page = Math.floor(offset/limit)+1
     console.log(offset);
